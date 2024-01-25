@@ -6,5 +6,5 @@ Il s'agit du projet effectué par l'intermédiaire des exercices avec Free Code 
 Création d'une page de menu pour la page web d'un café.  
   
 ## Langages utilisés:  
-- HTML5  
+- HTML5;
 - CSS3
