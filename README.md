@@ -7,4 +7,4 @@ Création d'une page de menu pour la page web d'un café.
   
 ## Langages utilisés:  
 - HTML5  
-- CSS3
+- CSS3;
